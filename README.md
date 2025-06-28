@@ -76,12 +76,4 @@ Install the following Python libraries if not already installed:
 pip install pandas numpy scikit-learn seaborn matplotlib
 ```
 
-## 📬 Sample Predictions Output
 
-| Feature Columns | Actual | Predicted |
-|-----------------|--------|-----------|
-| (Normalized data...) | Yes/No | Yes/No |
-
-## 📄 License
-
-This project is open-source and free to use for educational purposes.
